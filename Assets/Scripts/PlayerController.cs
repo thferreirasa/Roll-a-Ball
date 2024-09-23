@@ -40,8 +40,8 @@ public class PlayerController : MonoBehaviour
 
     void SetCountText()
     {
-        countText.text = "Count: " + count.ToString();
-        if (count >= 1) //Observação: o número é a quantidade de Pickups da cena!
-            winText.text = "YOU WIN!!";
+        countText.text = "Contagem: " + count.ToString();
+        if (count >= 20) //Observação: o número é a quantidade de Pickups da cena!
+            winText.text = "VOCÊ VENCEU!";
     }
 }
