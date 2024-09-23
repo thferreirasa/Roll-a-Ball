@@ -658,7 +658,8 @@ MonoBehaviour:
   m_text: "Projeto desenvolvido pela estudante Tha\xEDs Ferreira Santos para a disciplina
     \"Programa\xE7\xE3o de Jogos\" no semestre 2024.2 do curso de Jogos Digitais
     da UNEB.\n\nOs Assets utilizados fazem parte dos pacotes \"Kawaii Slimes\", \"Animals_FREE\"
-    e \"SimpleNaturePack\" da Asset Store da Unity."
+    e \"SimpleNaturePack\" da Asset Store da Unity e a m\xFAsica \"Bossa Nova\" de
+    Joth."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
