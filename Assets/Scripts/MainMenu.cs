@@ -17,4 +17,10 @@ public class MainMenu : MonoBehaviour
         UnityEditor.EditorApplication.isPlaying = false; // Para parar no editor
         #endif
     }
+
+    public void ShowCredits()
+    {
+        SceneManager.LoadScene("Credits");
+    }
+
 }
